@@ -35,6 +35,8 @@ GITHUB_URL = GITHUB_URL
 SRC = src
 BIN = bin
 
+# Compiler Configuration
+
 C = COMPILER OR INTERPRETER NAME
 C_FLAGS = COMPILER OR INTERPRETER FLAGS
 
@@ -82,6 +84,7 @@ help:
 
 
 # ========== VERSIONING ==========
+
 version:
 	@echo "$(FULL_VERSION)"
 
