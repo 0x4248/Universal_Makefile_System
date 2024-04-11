@@ -1,7 +1,7 @@
 # Universal makefile system
 # A template for makefile that is compatible with all compilers and interpreters
-# Github: https://www.github.com/lewisevans2007/Universal_makefile_system
-# By: Lewis Evans
+# Github: https://www.github.com/0x4248/Universal_makefile_system
+# By: 0x4248
 
 # ========== VERSION CONFIGURATION ==========
 
